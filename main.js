@@ -8,7 +8,7 @@ console.log(email.length);
 const firstWord = "My";
 const secondWord = "name";
 const thirsdWord = "is"
-const fullName = firstWord + " " + secondWord + " " + thirsdWord + " " + "Viktor";
+const fullName = `${firstWord} ${secondWord} ${thirsdWord} Viktor`;
 console.log(fullName);
 
 const userName = prompt("Введіть ваше ім'я");
