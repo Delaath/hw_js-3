@@ -13,4 +13,4 @@ console.log(fullName);
 
 const userName = prompt("Введіть ваше ім'я");
 const payment = 250;
-alert("Дякуємо " + userName + "! " + "До сплати " + payment + " гривень");
+alert(`Дякуємо ${userName}! До сплати ${payment} гривень`);
